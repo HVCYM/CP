@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// 788. Rotated Digits
+
 class Solution {
   public:
   int rotatedDigits(int n) {
